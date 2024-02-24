@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+b#name {
+    color: red;
+}
+h7#time {
+    color: #5ca0dd;
+}
+p#copyright {
+    color: #5ca0dd
+}
