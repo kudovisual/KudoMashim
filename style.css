@@ -1,13 +1,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #5ca0dd;
+    background-color: rgb(92, 160, 221)
 }
 b#name {
-    color: red;
+    color: rgb(255, 0 , 0);
 }
 h7#time {
-    color: blue;
+    color: rgb(0, 0, 255);
 }
 p#copyright {
-    color: red;
+    color: rgb(255, 0, 0);
+}
+p#version {
+    color: rgb(13, 13, 216);
 }
