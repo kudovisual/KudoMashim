@@ -1,0 +1,28 @@
+// KudoMashim Config Settings
+
+KudoMashim = slag_command()
+
+css = /KudoMashim/style.css
+home = /KudoMashim/index.html
+language = lang
+lang = "Tiếng Việt", "Vietnamese language"
+contact = "email", "github"
+email = "kudovisual02+mashim@gmail.com", "kudovisual02@gmail.com"
+github = "kudovisual", "kudovs"
+default_image_height = "200"
+logo = /KudoMashim/assets/nobg.png
+
+// Run program for test
+language_programmer = "HTML", "HTML5", "CSS", "noKudo"
+server = "http://127.0.0.1:3000"
+server_home = "index.html"
+note = "khong phai python dau"
+
+// Function assets folder
+assets_folder = /KudoMashim/assets
+
+// Author
+author = "kudovisual"
+author_github = "kudovisual"
+author_website = "https://kudovisual.github.io"
+copyright = "© 2024 KudoVisual, KudoMashim"
