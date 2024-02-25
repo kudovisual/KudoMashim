@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(92, 160, 221)}
+    background-color: rgb(92, 160, 221);
+}
 b#name {
     color: rgb(255, 0 , 0);
 }
@@ -13,3 +14,11 @@ p#copyright {
 p#version {
     color: rgb(13, 13, 216);
 }
+b#ukono {
+    color: rgb(255, 0, 0);
+}
+b#konono {
+    color: rgb(13, 13, 216);
+}
+
+/* viet boi kudovisual *\

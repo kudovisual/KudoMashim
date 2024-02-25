@@ -10,6 +10,7 @@ contact = "email", "github"
 email = "kudovisual02+mashim@gmail.com", "kudovisual02@gmail.com"
 github = "kudovisual", "kudovs"
 default_image_height = "200"
+notdefault_image_height = "để kích thước như nào cho vừa là được"
 logo = /KudoMashim/assets/nobg.png
 
 // Run program for test
